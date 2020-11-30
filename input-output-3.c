@@ -1,0 +1,12 @@
+//in the followin code
+
+#include<stdio.h> 
+int main()
+{
+FILE*fp;
+fp=fopen("trial","r");
+return 1;
+
+}
+
+//fp ppoints to ??????????????
